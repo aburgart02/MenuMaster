@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaster", "MenuMaster\MenuMaster.csproj", "{5687834B-4098-4367-B3F5-AD6D2D8F4329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMasterTests", "MenuMasterTests\MenuMasterTests.csproj", "{93901280-2B3E-4EEE-BCF0-43B365A860A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5687834B-4098-4367-B3F5-AD6D2D8F4329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5687834B-4098-4367-B3F5-AD6D2D8F4329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5687834B-4098-4367-B3F5-AD6D2D8F4329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5687834B-4098-4367-B3F5-AD6D2D8F4329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93901280-2B3E-4EEE-BCF0-43B365A860A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93901280-2B3E-4EEE-BCF0-43B365A860A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93901280-2B3E-4EEE-BCF0-43B365A860A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93901280-2B3E-4EEE-BCF0-43B365A860A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
